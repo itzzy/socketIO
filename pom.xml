@@ -39,6 +39,6 @@
             </archive>
           </configuration>
         </plugin>
-      </plugisn>
+      </plugins>
     </build>
 </project>
