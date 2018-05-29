@@ -34,7 +34,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
 	        <classpathPrefix>lib</classpathPrefix>
-	        <mainClass>com.zzy.01.nio.Server.java</mainClass>
+	        <mainClass>com.zzy.01.nio.Server</mainClass>
               </manifest>
             </archive>
           </configuration>
